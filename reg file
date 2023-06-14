@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Registraation form</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+      <form>
+        <label>name:</label>
+        <input type="text"><br>
+        <label>password:</label>
+        <input type="password">
+        <label>email:</label><br>
+        <input type="text">
+        <label>gender</label>
+        <tr><input type="radio" name="gendee">male</tr>
+         <tr><input type="radio" name="gendee">female</tr>
+         <br>
+         <br>
+         <input type="submit">
+         <button>save</button>
+      </form>
+      <a href=https://youtu.be/D4jj3HHrnSU target="_blank">link</a>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/D4jj3HHrnSU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      </body>
+</html>
